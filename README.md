@@ -1,26 +1,27 @@
-- 👋 Hi, I’m @iamjohndevboy
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Web Apps
+
 
 ## Hello People! 🤍🤍🤍🤍🤍🤍
 
 
 - 🏢 🔹Student at [@SRMIST](https://www.srmist.edu.in/)🔹
+-  🔹Hi, I’m @iamjohndevboy🔹
+-  🔹I’m interested in Designing🔹
+- 🔹 I’m currently learning Computer Engineering🔹
+- 🔹 I’m looking to collaborate on Web Apps🔹
 
 ## My Skillset Includes:
-- 🔧 JavaScript,HTML,Python,Bit of Bash
-- 🔧 SASS, CSS
-- 🔧 MySQL, SQL
-- 🔧 UI/UX Designing
-- 
+-  🔸JavaScript,HTML,Python,Bit of Bash🔸
+-  🔸SASS, CSS🔸
+-  🔸MySQL, SQL🔸
+-  🔸UI/UX Designing🔸
+
 ## My Tools of Trade:
-- 🔧 Figma,Canva
-- 🔧 Linux(Kali)
-- 🔧 Appwrite
+- 🔺 Figma,Canva🔺
+- 🔺 Linux(Kali)🔺
+- 🔺 Appwrite🔺
 
 ## Contact Me !
-- [martoederer.hu](hhu)
-- [@manlederer](http) on Twitter
-- [@marrer](https://twitter.com/instagram) on Instagram
-- [Mar13](./) on Discord
+- [My Linkedin](hhu)
+- [@manlederer](htt) on Twitter
+- [@mer](https://twitter.comagram) on Instagram
+- [M3](./) on Discord
