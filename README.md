@@ -22,4 +22,4 @@
 
 ## Contact Me !
 - [My Linkedin](hhu)
-- [@My Twitter](https://twitter.com/iamjohnpaulr5) 
+- [My Twitter](https://twitter.com/iamjohnpaulr5) 
