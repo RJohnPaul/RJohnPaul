@@ -22,6 +22,4 @@
 
 ## Contact Me !
 - [My Linkedin](hhu)
-- [@My twitter](https://twitter.com/iamjohnpaulr5) on Twitter
-- [@mer](https://twitter.comagram) on Instagram
-- [M3](./) on Discord
+- [@My Twitter](https://twitter.com/iamjohnpaulr5) 
