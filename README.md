@@ -25,4 +25,4 @@
 🔺 [My Twitter](https://twitter.com/iamjohnpaulr5) 
 
 # My Projects
-✨ [React AI Summarizer Web Application](https://xtractai.netlify.app) Repo
+✨ [React AI Summarizer Web Application](https://xtractai.netlify.app)   [Repo]()
