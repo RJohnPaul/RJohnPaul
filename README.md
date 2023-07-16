@@ -21,8 +21,8 @@
 - 🔺 Appwrite🔺
 
 ## Contact Me !
-↪ [My Linkedin](https://www.linkedin.com/in/john-paul-572496278/)
-↪ [My Twitter](https://twitter.com/iamjohnpaulr5) 
+↪ 🔗[My Linkedin](https://www.linkedin.com/in/john-paul-572496278/)
+↪ 🔗[My Twitter](https://twitter.com/iamjohnpaulr5) 
 
 # My Projects
-✨ [React AI Summarizer Web Application](https://xtractai.netlify.app)
+✨ 🔗[React AI Summarizer Web Application](https://xtractai.netlify.app) Repo🔗
