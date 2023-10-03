@@ -4,7 +4,7 @@
 
 
 - 🏢 🔹Student at [@SRMIST](https://www.srmist.edu.in/)🔹
--  🔹Hi, I’m @iamjohndevboy🔹
+-  🔹Hi, I’m @John Paul🔹
 -  🔹I’m interested in Designing,Developing🔹
 - 🔹 I’m currently learning Computer Engineering🔹
 - 🔹 I’m looking to collaborate on Web Apps🔹
