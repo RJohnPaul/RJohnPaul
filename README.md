@@ -76,7 +76,7 @@ linux
  
 <details>
 	<summary><b> 🔩 Some Info</b></summary>
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username={John Paul}&theme=blue-green /> 
+	<img src=https://github-readme-stats.vercel.app/api?username={RJohnPaul}&theme=blue-green /> 
 </details>
 
 ## My Skillset Includes:
