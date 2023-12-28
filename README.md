@@ -70,7 +70,7 @@ linux
 <div align="center">
 	<br>
 		<img src="https://github.com/RJohnPaul/RJohnPaul/blob/b357d73cf5fb2c6e67e69d862f0747eedbb41dfa/tenor.gif" width="400px">
-		<img src="https://github.com/RJohnPaul/RJohnPaul/blob/bf6fb696ebe9e9b033a97c0dcda8c2f46cd133eb/trust%20me.gif" width="400px">
+		<img src="https://github.com/RJohnPaul/RJohnPaul/blob/bf6fb696ebe9e9b033a97c0dcda8c2f46cd133eb/trust%20me.gif" width="500px">
 	<br>
 </div>		
 </details>	
