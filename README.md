@@ -66,8 +66,9 @@ linux
 -->
 </details>
 <details>
-	<summary><b> :computer What I Do</b></summary>
+	<summary><b> 🤔 What I Do</b></summary>
 	
+![CODEGIF](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![CODEGIF](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 	
 </details>	
