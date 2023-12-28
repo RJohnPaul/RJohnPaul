@@ -79,21 +79,21 @@ linux
 My Skillset Includes:&nbsp;
 	
 -  🔸JavaScript,HTML,Python,Bit of Bash🔸&nbsp;
--  
+  
 -  🔸TailwindCSS, CSS🔸&nbsp;
--  
+   
 -  🔸MySQL, SQL, MongoDB🔸&nbsp;
--  
+  
 -  🔸UI/UlX Designing🔸&nbsp;
--  
+  
 My Tools of Trade:&nbsp;
 
 - 🔺 Figma,Canva🔺&nbsp;
-- 
+ 
 - 🔺 Linux(Kali)🔺&nbsp;
-- 
+ 
 - 🔺 Git 🔺&nbsp;
-- 
+ 
 - 🔺 Appwrite (for backend)🔺&nbsp;
   
 	
