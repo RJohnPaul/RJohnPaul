@@ -75,8 +75,8 @@ linux
 </details>	
  
 <details>
-	<summary><b> 🔩 Some Info</b></summary>
-My Skillset Includes:&nbsp;
+	<summary><b> 🔩 Skills</b></summary>
+
 	
 -  🔸JavaScript,HTML,Python,Bit of Bash🔸&nbsp;
   
@@ -85,8 +85,6 @@ My Skillset Includes:&nbsp;
 -  🔸MySQL, SQL, MongoDB🔸&nbsp;
   
 -  🔸UI/UlX Designing🔸&nbsp;
-  
-My Tools of Trade:&nbsp;
 
 - 🔺 Figma,Canva🔺&nbsp;
  
@@ -98,18 +96,6 @@ My Tools of Trade:&nbsp;
   
 	
 </details>
-
-## My Skillset Includes:
--  🔸JavaScript,HTML,Python,Bit of Bash🔸
--  🔸TailwindCSS, CSS🔸
--  🔸MySQL, SQL, MongoDB🔸
--  🔸UI/UlX Designing🔸
-	
-## My Tools of Trade:
-- 🔺 Figma,Canva🔺
-- 🔺 Linux(Kali)🔺
-- 🔺 Git 🔺
-- 🔺 Appwrite (for backend)🔺
 	
 ## Contact Me !
 🔺 [My Linkedin](https://www.linkedin.com/in/john-paul-572496278/)
