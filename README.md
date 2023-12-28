@@ -77,7 +77,6 @@ linux
 <details>
 	<summary><b> 🔩 Skills</b></summary>
 
-	
 -  🔸JavaScript,HTML,Python,Bit of Bash🔸&nbsp;
   
 -  🔸TailwindCSS, CSS🔸&nbsp;
