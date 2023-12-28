@@ -66,7 +66,7 @@ linux
 -->
 </details>
 <details>
-	<summary>:computer: My Intrests</summary>
+	<summary><b>:computer: My Intrests</b></summary>
 	
 -🔹I’m interested in Designing,Developing🔹
 
