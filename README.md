@@ -76,7 +76,7 @@ linux
  
 <details>
 	<summary><b> 🔩 My Skillset</b></summary>
-	![https://www.python.org/](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+	![Java](https://www.python.org/)&nbsp;
 </details>
 
 ## My Skillset Includes:
