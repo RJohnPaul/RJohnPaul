@@ -66,13 +66,9 @@ linux
 -->
 </details>
 <details>
-	<summary><b>:computer: My Intrests</b></summary>
+	<summary><b>:computerWhat I Do</b></summary>
 	
--🔹I’m interested in Designing,Developing🔹
-
--🔹 I’m currently learning Computer Engineering🔹
-
--🔹 I’m looking to collaborate on Web Apps🔹
+![CODEGIF](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 	
 </details>	
  
