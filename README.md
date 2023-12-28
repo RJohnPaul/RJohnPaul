@@ -67,9 +67,9 @@ linux
 </details>
 <details>
 	<summary>:computer: My Intrests</summary>
-🔹I’m interested in Designing,Developing🔹
-🔹 I’m currently learning Computer Engineering🔹
-🔹 I’m looking to collaborate on Web Apps🔹
+-🔹I’m interested in Designing,Developing🔹
+-🔹 I’m currently learning Computer Engineering🔹
+-🔹 I’m looking to collaborate on Web Apps🔹
 	
 </details>	
  
