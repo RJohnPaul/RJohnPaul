@@ -75,8 +75,8 @@ linux
 </details>	
  
 <details>
-	<summary><b> 🔩 My Skillset</b></summary>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+	<summary><b> 🔩 Some Info</b></summary>
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username={RJohnPaul}&theme=blue-green /> 
 </details>
 
 ## My Skillset Includes:
