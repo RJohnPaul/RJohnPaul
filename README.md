@@ -76,7 +76,7 @@ linux
  
 <details>
 	<summary><b> 🔩 My Skillset</b></summary>
-	![SKILL](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))&nbsp;
+	![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))&nbsp;
 </details>
 
 ## My Skillset Includes:
