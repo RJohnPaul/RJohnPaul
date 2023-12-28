@@ -3,7 +3,7 @@
 		<img src="good-times.svg" width="400px">
 	<br>
  	<br>
-	       <img src="GithubReadmeGIF.gif width="400px">
+	       <img src="GithubReadmeGIF.gif" width="400px">
         </br>
 
 </div>
