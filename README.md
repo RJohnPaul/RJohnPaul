@@ -85,7 +85,7 @@ linux
 
 - 🤝 I’m looking for help with **Coding**
 
-- 👨‍💻 All of my projects are available at [https://john-paul.vercel.app](https://john-paul.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://john-paul.vercel.app)
 
 - 📝 I regularly write articles on [idk](idk)
 
@@ -93,7 +93,7 @@ linux
 
 - 📫 How to reach me **iamjohnpaulr5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rqBuXyVZmVqDWdcNG9kePc55sDb3dfbG/view?usp=sharing](https://drive.google.com/file/d/1rqBuXyVZmVqDWdcNG9kePc55sDb3dfbG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rqBuXyVZmVqDWdcNG9kePc55sDb3dfbG/view?usp=sharing)
 
 - ⚡ Fun fact **i think im funny but im not *sadly***
 
