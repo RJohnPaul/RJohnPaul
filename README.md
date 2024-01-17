@@ -106,7 +106,7 @@ linux
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjohnpaul&show_icons=true&locale=en" alt="rjohnpaul" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjohnpaul&" alt="rjohnpaul" /></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/fnky/count.svg" alt="rjohnpaul" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/rjohnpaul/count.svg" alt="rjohnpaul" /></p>
 
 </div>
 
