@@ -13,6 +13,7 @@
 </details>	
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=My+Name+is+John+Paul%2Ca+Front-End+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=View+My+Repos" alt="Typing SVG" /></a>
 
  🔭 I’m currently working on [My Portfolio](https://john-porfolio.vercel.app)
 
