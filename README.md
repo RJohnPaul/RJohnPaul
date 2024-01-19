@@ -105,7 +105,6 @@ linux
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjohnpaul&show_icons=true&locale=en" alt="rjohnpaul" /></p>
 
-[<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjohnpaul&" alt="rjohnpaul" /></p>](https://www.google.com/search?client=firefox-b-d&q=[![John's+github+stats](https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DRJohnPaul%26show_icons%3Dtrue%26title_color%3Dfff%26icon_color%3D79ff97%26text_color%3D9f9f9f%26bg_color%3D151515%26count_private%3Dtrue)](https%3A%2F%2Fgithub.com%2FRJohnPaul))https://www.google.com/search?client=firefox-b-d&q=[![John's+github+stats](https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DRJohnPaul%26show_icons%3Dtrue%26title_color%3Dfff%26icon_color%3D79ff97%26text_color%3D9f9f9f%26bg_color%3D151515%26count_private%3Dtrue)](https%3A%2F%2Fgithub.com%2FRishit-dagli)
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/rjohnpaul/count.svg" alt="rjohnpaul" /></p>
 
 </div>
