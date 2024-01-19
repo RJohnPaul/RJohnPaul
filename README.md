@@ -104,7 +104,7 @@ linux
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjohnpaul&show_icons=true&locale=en&layout=compact" alt="rjohnpaul" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjohnpaul&show_icons=true&locale=en" alt="rjohnpaul" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RJohnPaul&theme=holi-theme&border_radius=20" alt="GitHub Streak" /></a>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/rjohnpaul/count.svg" alt="rjohnpaul" /></p>
 
 </div>
