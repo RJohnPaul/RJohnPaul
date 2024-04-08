@@ -6,13 +6,13 @@
 
 <details>
 
-	<summary><b> 🤔 What I Do</b></summary>
+ <summary><b> 🤔 What I Do</b></summary>
 
-<div align="center">
+ <div align="center">
 	<br>
 		<img src="https://github.com/RJohnPaul/RJohnPaul/blob/b357d73cf5fb2c6e67e69d862f0747eedbb41dfa/tenor.gif" width="400px">
 	<br>
-</div>		
+ </div>		
 </details>	
 <div align="center">	
  <a href="https://git.io/typing-svg">
