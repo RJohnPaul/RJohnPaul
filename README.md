@@ -5,6 +5,7 @@
 </div>
 
 <details>
+<div align="center">
 	<summary><b> 🤔 What I Do</b></summary>
 </div>
 <div align="center">
