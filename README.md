@@ -12,10 +12,11 @@
 	<br>
 </div>		
 </details>	
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=My+Name+is+John+Paul%2Ca+Front-End+Dev" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=View+My+Repos" alt="Typing SVG" /></a>
-
+<div align="center">	
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=My+Name+is+John+Paul%2Ca+Front- 
+ End+Dev" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=View+My+Repos" alt="Typing SVG" /></a>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
