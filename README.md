@@ -1,13 +1,12 @@
 <div align="center">
+    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/55807e0c3962e9a2424e85101c958e45cc247353/BannerGIT.png" style="border-radius: 50%;"/>
+</div>
+
+<div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-
-<div align="center">
-	 <img src="https://github.com/RJohnPaul/RJohnPaul/blob/55807e0c3962e9a2424e85101c958e45cc247353/BannerGIT.png"/>
- </div>
-
 <details>
 
  <summary><b> 🤔 What I Do</b></summary>
