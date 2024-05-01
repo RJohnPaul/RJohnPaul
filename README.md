@@ -1,23 +1,6 @@
 <div align="center">
     <img src="https://github.com/RJohnPaul/RJohnPaul/blob/fce36e76dd630bc807ce4a0cddccb3ee5f0221b4/BannerGIT%201.png"/>
 </div>
-
-<div align="center">
-	<br>
-		<img src="good-times.svg" width="400px">
-	<br>
-</div>
-<details>
-
- <summary><b> 🤔 What I Do</b></summary>
-
- <div align="center">
-	<br>
-		<img src="https://github.com/RJohnPaul/RJohnPaul/blob/b357d73cf5fb2c6e67e69d862f0747eedbb41dfa/tenor.gif" width="400px">
-	<br>
- </div>	
- 
-</details>	
 <div align="center">	
  <a href="https://git.io/typing-svg">
 	 <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0038F7&center=true&vCenter=true&random=false&width=435&lines=My+Name+is+John+Paul%2Ca+Front-End+Dev" alt="Typing SVG" /></a>
@@ -60,4 +43,9 @@
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RJohnPaul&theme=holi-theme&border_radius=20" alt="GitHub Streak" /></a>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJohnPaul&theme=dark"/>
 	<p align="center"><img align="center" src="https://profile-counter.glitch.me/rjohnpaul/count.svg" alt="rjohnpaul" /></p>
+</div>
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
 </div>
