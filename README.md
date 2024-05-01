@@ -14,7 +14,7 @@
 	<br>
  </div>	
  <div align="center">
-	 <img src=""/>
+	 <img src="https://github.com/RJohnPaul/RJohnPaul/blob/55807e0c3962e9a2424e85101c958e45cc247353/BannerGIT.png"/>
  </div>
 </details>	
 <div align="center">	
