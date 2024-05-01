@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/55807e0c3962e9a2424e85101c958e45cc247353/BannerGIT.png" style="border-radius: 50%;"/>
+    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/fce36e76dd630bc807ce4a0cddccb3ee5f0221b4/BannerGIT%201.png"/>
 </div>
 
 <div align="center">
