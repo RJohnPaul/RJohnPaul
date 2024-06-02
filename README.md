@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/fce36e76dd630bc807ce4a0cddccb3ee5f0221b4/BannerGIT%201.png"/>
+    <img src="https://github.com/RJohnPaul/RJohnPaul/blob/d15cb4e6eafbc35c36edcfc34fdd02e2ff11cac7/Graphic%20Designer%20(4).png"/>
 </div>
 <div align="center">	
  <a href="https://git.io/typing-svg">
