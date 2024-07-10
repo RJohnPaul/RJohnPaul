@@ -41,9 +41,20 @@
 
 <h3 align="left">Badges:</h3>
 <div align="center">
-	<br>
-		<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100px">
-	<br>
+	<a href="https://www.credly.com/users/john-paul.34cec833" target="_blank">Visit My Credly</a>
+	<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100px">
+	<img src="https://images.credly.com/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png" width="100px">
+	<img src="https://images.credly.com/images/0bb5db18-6ae0-4993-9701-0c841d4d6e72/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png" width="100px">
+	<img src="https://images.credly.com/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="100px">
+	<img src="https://images.credly.com/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" width="100px">
+	<img src="https://images.credly.com/size/680x680/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="100px">
+	<img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100px">
 </div>
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RJohnPaul&theme=blueberry-duo&border_radius=20" alt="GitHub Streak" /></a>
