@@ -40,7 +40,9 @@
 </p>
 
 <h3 align="left">Badges:</h3>
-<h3 href="https://www.credly.com/users/john-paul.34cec833" target="_blank">Visit My Credly</h3>
+<h3 href="https://www.credly.com/users/john-paul.34cec833" target="_blank">
+	<a href="https://www.credly.com/users/john-paul.34cec833" target="_blank">Visit My Credly</a>
+</h3>
 <div align="center">
 	<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100px">
 	<img src="https://images.credly.com/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png" width="100px">
