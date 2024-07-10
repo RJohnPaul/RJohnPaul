@@ -39,6 +39,12 @@
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Badges:</h3>
+<div align="center">
+	<br>
+		<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="50px">
+	<br>
+</div>
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RJohnPaul&theme=blueberry-duo&border_radius=20" alt="GitHub Streak" /></a>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJohnPaul&theme=dark"/>
@@ -47,10 +53,5 @@
 <div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
-	<br>
-</div>
-<div align="center">
-	<br>
-		<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100px">
 	<br>
 </div>
