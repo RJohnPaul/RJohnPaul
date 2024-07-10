@@ -51,6 +51,6 @@
 </div>
 <div align="center">
 	<br>
-		<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="400px">
+		<img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" width="100px">
 	<br>
 </div>
