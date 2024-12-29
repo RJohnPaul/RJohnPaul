@@ -69,4 +69,6 @@
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4400ff))
+![Home Dashboard](https://github.com/RJohnPaul/Healthlink/blob/53fa1bf4726e9299f1f30362dd13c7d643e92c7f/Template%20Example%20(3).png)
+
+![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4400ff)
