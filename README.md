@@ -68,6 +68,6 @@
 	<br>
 		<img src="good-times.svg" width="400px">
 
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fdgo1n75ojspu7831ixfviq3p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4400ff)
+
 	<br>
 </div>
